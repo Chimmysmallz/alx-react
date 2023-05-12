@@ -1,5 +1,7 @@
 # React Immutable Tasks
 
+Greetings fellow code adventurer!
+
 This is a collection of tasks that involve working with the Immutable.js library in a React environment. Immutable.js is a JavaScript library that provides immutable data structures, which are useful when building React applications. Immutable data structures allow developers to avoid mutations and make code more predictable and easier to reason about.
 
 ## Requirements
@@ -40,17 +42,19 @@ Runs the linter to check for any linting errors.
 
 ## Tasks
 
-The following tasks are included in this collection:
+Are you tired of endlessly mutable data and unpredictable state changes? Well, fear not my friend, React Immutable to the rescue!
 
-1. Create a constant named `map`. It should create an Immutable Map with a specific object and export it. Then, create a second constant named `map2` that modifies the values of `map` and exports it.
+In this set of tasks, you'll be working with the Immutable.js library, which provides a variety of data structures that can't be changed once created. Talk about commitment! 
 
-2. Create a function named `concatElements` that accepts two arrays as arguments and returns a List containing the values of the two arrays. Then, create a function named `mergeElements` that accepts two objects as arguments and returns a List containing the values of the two objects.
+First up, you'll be creating a constant map with a list of names. And no, you can't use Google Maps for this. Then, you'll export another constant, map2, that modifies some of the names in map1.
 
-3. Create a function named `mergeDeeplyElements` that accepts two objects as arguments and returns a List containing the values of the two objects. If two values are the same, they should combine each other.
+Next, you'll use your Immutable.js skills to concatenate two arrays with the concatElements function. And for those of you who prefer objects, don't worry, there's a mergeElements function for you too!
 
-4. Create a function named `areMapsEqual` that accepts two Immutable Maps as arguments and returns true if the Maps are equal.
+But wait, there's more! With the mergeDeeplyElements function, you'll be able to combine two objects in a deeply meaningful way. Think of it as a lovechild between your objects.
 
-5. Create a function named `printBestStudents` that accepts an object as an argument and filters any student with a score < 70. It should then print to the console the first name and last name with the first letter capitalized.
+Finally, the printBestStudents function will showcase your abilities to filter students with scores below 70 and capitalize their first names. No more lowercase losers in your console!
+
+So put on your thinking cap and get ready to Immutable your React experience. It's time to make your code stable and reliable with Immutable.js!
 
 ## Conclusion
 
