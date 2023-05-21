@@ -86,5 +86,3 @@ Feel free to explore and enhance the project based on your needs.
 
 ```
 ```
-
-Please feel free to copy and use this `README.md` template for your project.
