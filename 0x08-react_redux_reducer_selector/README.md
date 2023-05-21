@@ -1,6 +1,3 @@
-Certainly! Here's the rewritten `README.md` with all the necessary symbols included for easy copying:
-
-```
 # React Redux UI Reducer
 
 This project contains a UI reducer implemented in React Redux. It manages the UI state related to the notification drawer visibility and user login status.
